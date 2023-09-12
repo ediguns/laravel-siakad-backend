@@ -9,7 +9,7 @@
 @section('main')<div class="main-content">
         <section class="section">
             <div class="section-header">
-                <h1>Blank Page Fic 8 Edi Gunawan edit From Github GUI</h1>
+                <h1>Edi Gunawan - FIC 8</h1>
             </div>
 
             <div class="section-body">
